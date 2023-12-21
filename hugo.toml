@@ -1,0 +1,4 @@
+baseURL = 'https://siraphobk.github.io/'
+languageCode = 'en-us'
+title = 'Siraphob Kan'
+theme = 'ananke'
